@@ -1,0 +1,99 @@
+body{
+    background-color: #E5E5E5;
+    font-family: 'Montserrat', sans-serif;
+}
+/* li {
+background-color: #fff;
+font-size: 14px;
+line-height: 24px;
+font-weight: bold;
+
+} */
+ img {
+     margin-top: 40px;
+     margin-left: 40px;
+     margin-right: 10px;
+     margin-bottom: 51px;
+     width: 210px;
+ }
+ h1 {
+     margin-top: 40px;
+     margin-bottom: 24px;
+     margin-left: 0;
+     width: 342px;
+     height: 50px;
+ }
+ p {
+     font-size: 12px;
+     font-weight: normal;
+    color: #A8A8A8;
+ }
+ .color {
+     color: #FB6D3A;
+ }
+/* .projects-item-first {
+color: aqua;
+} */
+/* .main-content {
+display: flex;
+flex-direction: row;
+} */
+.main-conteiner {
+    display: flex;
+    flex-direction: row-reverse; 
+    width: 1200px;
+    background-color: rgb(207,207,208);
+    margin: 40px auto;
+    /* меняем порядок */
+}
+.about-me {
+    /* background: rgb(124, 19, 194); */
+    /* margin: 50px 0; */
+    margin-bottom: 19px;
+    margin-top: 142px;
+    /* display: flex;
+    flex-direction: row; */
+    width: 500px;
+    height: 230px;
+    /* border: 2px solid black; */
+}
+.about-me-profession {
+    clear: both;
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+  
+}
+.projects-item-first
+{
+    font-weight: bold;
+}
+.lorem {
+    font-size: 14px;
+}
+
+.my-prohect {
+    margin-top: 40px;
+/* background: yellow; */
+}
+.my-work-experience {
+    margin-top: 51px;
+/* background: turquoise; */
+}
+
+.education {
+    margin-top: 43px;
+    margin-bottom: 107px;
+/* background: violet; */
+}
+.sidebar {
+    background: #1E2939;
+    margin-right: 62px;
+    width: 30%;
+}
+.position-aside {
+    margin: 44px 40px;
+}
